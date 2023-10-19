@@ -1,0 +1,13 @@
+@media (max-width: 850px) {
+    #news-div {
+        display: none;
+    }
+    #curiosityDiv p {
+        padding: 0.4rem;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    
+    
+    
+}
